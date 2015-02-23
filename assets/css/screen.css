@@ -225,7 +225,7 @@ div.cover > img {
 }
 /* Header */
 .art-header {
-  height: 600px;
+  height: 400px;
   /* Background image is defined in the post */
   background-position: top center;
   background-attachment: fixed;
