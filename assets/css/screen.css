@@ -46,22 +46,22 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 50px;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 }
 
 h2 {
   font-size: 45px;
-  padding-bottom: 10px;
+  padding-bottom: 25px;
 }
 
 h3 {
   font-size: 40px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 h4 {
   font-size: 35px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 h5 {
@@ -132,7 +132,7 @@ a:hover {
 .art-list,
 .abt,
 .fourohfour {
-  width: 1500px;
+  width: 980px;
 }
 .nav,
 .art-body-inner,
@@ -203,7 +203,7 @@ a:hover {
 div#home {}
 
 #home > div.cover {
-  max-width: 1500px;
+  max-width: 980px;
   margin: 0px auto;
   /*padding-top: 110px;*/
 }
@@ -225,7 +225,7 @@ div.cover > img {
 }
 /* Header */
 .art-header {
-  height: 100px;
+  height: 900px;
   /* Background image is defined in the post */
   background-position: top center;
   background-attachment: fixed;
@@ -234,7 +234,7 @@ div.cover > img {
 /* Contains the time, title and subtitle for an article */
 .art-header-inner {
   position: fixed;
-  top: 10px;
+  top: 300px;
   left: 50%;
   margin-left: -490px;
 }
@@ -246,7 +246,7 @@ div.cover > img {
 }
 .art-time {
   font-size: 14px;
-  line-height: 1.2;
+  line-height: 1.8;
   letter-spacing: 4px;
 }
 .art-title {
@@ -268,7 +268,7 @@ div.cover > img {
   line-height: 65px;
 }
 .small.art-header-inner {
-  top: 20px;
+  top: 320px;
 }
 
 /* Body */
@@ -283,13 +283,13 @@ div.cover > img {
 }
 .art-body-inner {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  max-width: 1500px;
-  padding: 10px 0 10px;
+  max-width: 640px;
+  padding: 80px 0 50px;
   letter-spacing: 0.01rem;
   font-weight: 400;
   font-style: normal;
-  font-size: 14px;
-  line-height: 1.2;
+  font-size: 21px;
+  line-height: 1.5;
 }
 .art-body-inner a:hover {
   border-bottom: 1px solid #F40034;
