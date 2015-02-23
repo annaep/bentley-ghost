@@ -46,22 +46,22 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 50px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 h2 {
   font-size: 45px;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
 }
 
 h3 {
   font-size: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 h4 {
   font-size: 35px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
 
 h5 {
@@ -132,7 +132,7 @@ a:hover {
 .art-list,
 .abt,
 .fourohfour {
-  width: 980px;
+  width: 1500px;
 }
 .nav,
 .art-body-inner,
@@ -203,7 +203,7 @@ a:hover {
 div#home {}
 
 #home > div.cover {
-  max-width: 980px;
+  max-width: 1500px;
   margin: 0px auto;
   /*padding-top: 110px;*/
 }
@@ -225,7 +225,7 @@ div.cover > img {
 }
 /* Header */
 .art-header {
-  height: 900px;
+  height: 1500px;
   /* Background image is defined in the post */
   background-position: top center;
   background-attachment: fixed;
@@ -283,13 +283,13 @@ div.cover > img {
 }
 .art-body-inner {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  max-width: 640px;
+  max-width: 1500px;
   padding: 80px 0 50px;
   letter-spacing: 0.01rem;
   font-weight: 400;
   font-style: normal;
-  font-size: 21px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.2;
 }
 .art-body-inner a:hover {
   border-bottom: 1px solid #F40034;
