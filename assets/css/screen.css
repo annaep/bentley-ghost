@@ -234,7 +234,7 @@ div.cover > img {
 /* Contains the time, title and subtitle for an article */
 .art-header-inner {
   position: fixed;
-  top: 300px;
+  top: 10px;
   left: 50%;
   margin-left: -490px;
 }
@@ -268,7 +268,7 @@ div.cover > img {
   line-height: 65px;
 }
 .small.art-header-inner {
-  top: 320px;
+  top: 10px;
 }
 
 /* Body */
@@ -283,7 +283,7 @@ div.cover > img {
 }
 .art-body-inner {
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  max-width: 640px;
+  max-width: 1500px;
   padding: 80px 0 50px;
   letter-spacing: 0.01rem;
   font-weight: 400;
